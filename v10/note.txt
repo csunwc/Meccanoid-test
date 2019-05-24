@@ -1,0 +1,9 @@
+smooth servo motion PATH test ... from pt 1 to pt N
+
+on both arms. one servo at a time...
+
+
+
+
+
+
